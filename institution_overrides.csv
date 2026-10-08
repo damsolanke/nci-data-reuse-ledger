@@ -1,0 +1,78 @@
+affiliation,category,note
+NIH,us_government,National Institutes of Health
+UT SOUTHWESTERN MEDICAL CENTER,r1_university,Carnegie 2025: University of Texas Southwestern Medical Center (R1)
+UNIVERSITY OF TEXAS HLTH SCIENCE CENTER,r1_university,UT Health Science Centers at Houston and San Antonio are both R1 in Carnegie 2025
+UTAH STATE HIGHER EDUCATION SYSTEM--UNIVERSITY OF UTAH,r1_university,University of Utah (R1)
+MIAMI UNIVERSITY OXFORD,r2_university,Carnegie 2025: Miami University-Oxford (R2); matcher picked University of Miami
+HARVARD MEDICAL SCHOOL,r1_university,Harvard University (R1); ROR record withdrawn
+RBHS-SCHOOL/ HEALTH RELATED PROFESSIONS,r1_university,Rutgers Biomedical and Health Sciences (Rutgers-New Brunswick R1)
+GEORGIA HEALTH SCIENCES UNIVERSITY,r2_university,Now Augusta University (R2)
+MASS COLLEGE OF PHARM HEALTH SCIENCES,other_us_university,Massachusetts College of Pharmacy and Health Sciences
+UNIVERSITY OF CALIF-LAWRNC LVRMR NAT LAB,us_government,Lawrence Livermore National Laboratory
+BATTELLE PACIFIC NORTHWEST LABORATORIES,us_government,Pacific Northwest National Laboratory
+"NEMOURS CHILDREN'S HOSPITAL, DELAWARE",other_us,Children's hospital
+BRITISH COLUMBIA CANCER AGENCY,non_us,Canada
+HOSPITAL FOR SICK CHLDRN (TORONTO),non_us,Canada
+THE INSTITUTE OF CANCER RESEARCH: ROYAL CANCER HOSPITAL,non_us,United Kingdom
+UNIVERSITY OF LONDON INST OF CANCER RES,non_us,United Kingdom
+TRON -TRANSLATIONAL ONCOLOGY GGMBH,non_us,Germany (nonprofit gGmbH)
+FUNDACIO IMIM,non_us,Spain
+FUN/INST/REC/LEUCEMIA JOSEP CARRERAS,non_us,Spain
+KOREA UNIV. RESEARCH AND BUSINESS FOUNDATION,non_us,South Korea
+"CHARITE, UNIVERSITAETSMEDIZIN BERLIN",non_us,Germany
+MAX DELBRUECK CENTRUM FOR MOLECULAR MED,non_us,Germany
+UNIVERSITY OF TROMSO,non_us,Norway
+SHEBA RESEARCH FUND,non_us,Israel
+FUNDACAO GIMM - GULBENKIAN INSTITUTE FOR MOLECULAR MEDICINE,non_us,Portugal
+LA PAZ HOSPITAL BIOMEDICAL RESEARCH FDN,non_us,Spain
+INSERM PARIS 6,non_us,France
+NAT'L INST OF HLTH/MED RES INSERM-PARIS,non_us,France
+MEDICAL INDUSTRY-ACADEMIC COOPERATION FOUNDATION OF KUNGHEE UNIVERSITY,non_us,South Korea
+UNIV HOSP & MEDICAL FACULTY HEIDELBERG,non_us,Germany
+"UNIVERSITY OF MIYAZAKI, NATIONAL UNIVERSITY CORPORATION",non_us,Japan
+RESEARCH FOUNDATION OF/HOSPITAL LA FE,non_us,Spain
+ACADEMICAL MEDICAL CENTER,non_us,Netherlands (Amsterdam UMC)
+UNIST,non_us,South Korea
+SAINT JOHN OF GOD FOUNDATION,non_us,Spain
+ANDALUSIAN PUBLIC FND PROGESS AND HEALTH,non_us,Spain
+STICHTING RADBOUD UNIVERSITAIR MEDISCH CENTRUM I.O.,non_us,Netherlands
+HOSPITAL INFANTIL BOLDRINI,non_us,Brazil
+MBRU,non_us,United Arab Emirates
+CONSEJO SUPERIOR DE INVESTIGACIONES CIEN,non_us,Spain
+JOHNSON/JOHNSON/PHARM/RES/ DEVELOPMENT,company,Johnson & Johnson
+ZENITH CAPITAL,company,
+TRANSGENE,company,
+"CURE VENTURES MANAGEMENT, L.P.",company,
+EPIGENE LABS,company,
+MSINSIGHT,company,
+QLUCORE AB,company,
+GENETIC INTELLIGENCE,company,
+NEXTBIO,company,
+GLAXOSMITHKLINE,company,
+BRENUS PHARMA,company,
+OMICSCHART,company,
+ONCOLOGIC REFERRAL CENTER,non_us,Centro di Riferimento Oncologico (Italy)
+METHODIST HOSPITAL RESEARCH INSTITUTE,other_us,Houston Methodist
+ADVANCED CTR/TREATMENT RES/EDU IN CANCER,non_us,ACTREC (India)
+UNIVERSITATSKLINIKUM ESSEN ANSTALT DES OFFENTLICHEN RECHTS,non_us,Germany
+FRENCH LEAGUE AGAINST CANCER,non_us,France; matcher picked a US organization
+INSTITUTE OF BIOCHEMISTRY AND BIOPHYSICS-IBB,non_us,
+TAMPEREEN KORKEAKOULUSAATIO SR,non_us,Tampere University (Finland)
+IPPI RAN,non_us,Russia
+HUGO W. MOSER RES INST KENNEDY KRIEGER,other_us,Kennedy Krieger Institute
+GALICIAN PUBLIC FDN/MEDICAL GENOMICS,non_us,Spain
+PHILIPS RESEARCH NORTH AMERICA,company,
+KIFÜ,non_us,Hungary
+COMMONWEALTH SCIENTIFIC & INDUST RES ORG,non_us,CSIRO (Australia)
+FOUNDATION FOR APPLIED MEDICAL RESEARCH,non_us,CIMA (Spain)
+ENTEROME,company,
+FONDAZIONE PER L'ISTITUTO ONCOLOGICO DI RICERCA (IOR),non_us,Switzerland
+INSERM LILLE,non_us,France
+SHEMYAKIN/OVCH INST/BIOORGANIC CHEMISTRY,non_us,Russia
+SCRIPPS FLORIDA,other_us,Scripps Research (nonprofit)
+FREE UNIVERSITY OF BRUSSELS,non_us,Belgium
+PONCE SCHOOL OF MEDICINE,other_us_university,Ponce Health Sciences University (Puerto Rico)
+RUTGERS THE STATE UNIV OF NJ NEWARK,r2_university,Carnegie 2025: Rutgers University-Newark (R2)
+UNIVERSITY OF KANSAS MEDICAL CENTER,r1_university,University of Kansas (R1)
+UNIVERSITY OF SOUTH CAROLINA AT COLUMBIA,r1_university,Carnegie 2025: University of South Carolina-Columbia (R1); matcher picked South University
+UNIVERSITY OF CALIF-LAWRENC BERKELEY LAB,us_government,Lawrence Berkeley National Laboratory

@@ -1,0 +1,509 @@
+{
+ "run_date": "2026-10-08",
+ "studies": {
+  "phs000178": {
+   "name": "TCGA",
+   "approved_requests_listed_on_dbgap": 5818,
+   "requests_in_random_page_sample": 2180,
+   "distinct_requesters": 1679,
+   "distinct_institution_strings": 776,
+   "first_approval": "2009-08-06",
+   "latest_approval": "2026-10-06",
+   "status": {
+    "approved": 547,
+    "closed": 1537,
+    "rejected": 32,
+    "expired": 64
+   },
+   "approvals_by_year": {
+    "2009": 62,
+    "2010": 44,
+    "2011": 64,
+    "2012": 70,
+    "2013": 116,
+    "2014": 149,
+    "2015": 172,
+    "2016": 172,
+    "2017": 173,
+    "2018": 173,
+    "2019": 136,
+    "2020": 153,
+    "2021": 135,
+    "2022": 126,
+    "2023": 125,
+    "2024": 114,
+    "2025": 111,
+    "2026": 85
+   },
+   "institution_split": {
+    "r1_university": {
+     "n": 605,
+     "share": 0.278
+    },
+    "r2_university": {
+     "n": 65,
+     "share": 0.03
+    },
+    "other_us_university": {
+     "n": 25,
+     "share": 0.011
+    },
+    "cancer_center": {
+     "n": 203,
+     "share": 0.093
+    },
+    "us_government": {
+     "n": 80,
+     "share": 0.037
+    },
+    "other_us": {
+     "n": 118,
+     "share": 0.054
+    },
+    "company": {
+     "n": 259,
+     "share": 0.119
+    },
+    "non_us": {
+     "n": 794,
+     "share": 0.364
+    },
+    "unknown": {
+     "n": 31,
+     "share": 0.014
+    }
+   },
+   "hbcu_requests": 6,
+   "msi_share_of_us_university_requests": 0.196
+  },
+  "phs000218": {
+   "name": "TARGET",
+   "approved_requests_listed_on_dbgap": 676,
+   "requests_in_random_page_sample": 676,
+   "distinct_requesters": 575,
+   "distinct_institution_strings": 306,
+   "first_approval": "2010-05-14",
+   "latest_approval": "2026-09-24",
+   "status": {
+    "expired": 28,
+    "closed": 406,
+    "approved": 226,
+    "rejected": 16
+   },
+   "approvals_by_year": {
+    "2010": 9,
+    "2011": 15,
+    "2012": 8,
+    "2013": 15,
+    "2014": 27,
+    "2015": 35,
+    "2016": 42,
+    "2017": 53,
+    "2018": 77,
+    "2019": 54,
+    "2020": 68,
+    "2021": 54,
+    "2022": 37,
+    "2023": 53,
+    "2024": 51,
+    "2025": 32,
+    "2026": 46
+   },
+   "institution_split": {
+    "r1_university": {
+     "n": 198,
+     "share": 0.293
+    },
+    "r2_university": {
+     "n": 14,
+     "share": 0.021
+    },
+    "other_us_university": {
+     "n": 3,
+     "share": 0.004
+    },
+    "cancer_center": {
+     "n": 68,
+     "share": 0.101
+    },
+    "us_government": {
+     "n": 32,
+     "share": 0.047
+    },
+    "other_us": {
+     "n": 59,
+     "share": 0.087
+    },
+    "company": {
+     "n": 51,
+     "share": 0.075
+    },
+    "non_us": {
+     "n": 249,
+     "share": 0.368
+    },
+    "unknown": {
+     "n": 2,
+     "share": 0.003
+    }
+   },
+   "hbcu_requests": 0,
+   "msi_share_of_us_university_requests": 0.191
+  },
+  "phs001287": {
+   "name": "CPTAC",
+   "approved_requests_listed_on_dbgap": 487,
+   "requests_in_random_page_sample": 487,
+   "distinct_requesters": 443,
+   "distinct_institution_strings": 279,
+   "first_approval": "2018-04-17",
+   "latest_approval": "2026-10-02",
+   "status": {
+    "closed": 182,
+    "approved": 271,
+    "expired": 22,
+    "rejected": 12
+   },
+   "approvals_by_year": {
+    "2018": 10,
+    "2019": 37,
+    "2020": 32,
+    "2021": 61,
+    "2022": 65,
+    "2023": 68,
+    "2024": 63,
+    "2025": 68,
+    "2026": 83
+   },
+   "institution_split": {
+    "r1_university": {
+     "n": 132,
+     "share": 0.271
+    },
+    "r2_university": {
+     "n": 8,
+     "share": 0.016
+    },
+    "other_us_university": {
+     "n": 2,
+     "share": 0.004
+    },
+    "cancer_center": {
+     "n": 52,
+     "share": 0.107
+    },
+    "us_government": {
+     "n": 19,
+     "share": 0.039
+    },
+    "other_us": {
+     "n": 25,
+     "share": 0.051
+    },
+    "company": {
+     "n": 63,
+     "share": 0.129
+    },
+    "non_us": {
+     "n": 183,
+     "share": 0.376
+    },
+    "unknown": {
+     "n": 3,
+     "share": 0.006
+    }
+   },
+   "hbcu_requests": 1,
+   "msi_share_of_us_university_requests": 0.162
+  }
+ },
+ "institution_rules": [
+  "company (any country): ROR type 'company', or a corporate suffix (INC, LLC, LTD, CORP, GMBH ...) on an organization ROR does not list as education, healthcare, nonprofit, facility, government or funder",
+  "non_us: ROR country is not US",
+  "cancer_center: name contains 'cancer' after abbreviation expansion, or names an NCI-designated freestanding or basic-laboratory center (Sloan Kettering, Dana-Farber, Fred Hutchinson, Moffitt, City of Hope, Fox Chase, Roswell Park, St. Jude, Jackson Lab, Salk, Wistar, Cold Spring Harbor, Sanford Burnham Prebys)",
+  "r1_university: Carnegie 2025 'Research 1' (directly or via the ROR parent organization)",
+  "r2_university: Carnegie 2025 'Research 2'",
+  "other_us_university: any other Carnegie match, ROR type 'education', or 'university'/'college' in the name",
+  "us_government: ROR type 'government' or NIH/FDA/VA/national laboratory names",
+  "other_us: hospitals, nonprofit research institutes and anything else in the US"
+ ],
+ "precision_check": {
+  "random_links": {
+   "checked": 20,
+   "correct": 15,
+   "incorrect": 3,
+   "unsure": 2,
+   "precision_excluding_unsure": 0.833,
+   "wilson_95ci": [
+    0.608,
+    0.942
+   ],
+   "precision_if_unsure_counted_wrong": 0.75,
+   "wrong_person": 0,
+   "right_person_no_data_use": 3
+  },
+  "first_link_of_random_linked_request": {
+   "checked": 20,
+   "correct": 18,
+   "incorrect": 1,
+   "unsure": 1,
+   "precision_excluding_unsure": 0.947,
+   "wilson_95ci": [
+    0.754,
+    0.991
+   ],
+   "precision_if_unsure_counted_wrong": 0.9,
+   "wrong_person": 1,
+   "right_person_no_data_use": 0
+  },
+  "all_accepted": {
+   "checked": 40,
+   "correct": 33,
+   "incorrect": 4,
+   "unsure": 3,
+   "precision_excluding_unsure": 0.892,
+   "wilson_95ci": [
+    0.753,
+    0.957
+   ],
+   "precision_if_unsure_counted_wrong": 0.825,
+   "wrong_person": 1,
+   "right_person_no_data_use": 3
+  },
+  "rejected_name_compatible_candidates": {
+   "checked": 15,
+   "true_links_found": 2,
+   "unsure": 1
+  },
+  "method": "Blind review (the sheet did not say which items the linker accepted): 20 random accepted links, the earliest accepted link of 20 random linked requests, and 15 random rejected candidates with compatible names. Each was judged on the request's project title and research use statement against the paper's title, abstract, author first name and affiliation, the full-text sentences that mention the dataset (PMC open access), and the Europe PMC sections that mention it. Correct = same person and the paper analyzes the dataset. Labels are kept for re-review."
+ },
+ "sample": {
+  "seed": 20261008,
+  "per_study": {
+   "phs000178": 200,
+   "phs001287": 80
+  },
+  "topic_threshold_p99": 0.085,
+  "candidates_screened": 13387,
+  "links_accepted": 958,
+  "window_rule": "initial approval date to last approval + 2 years (closed, expired or rejected requests) or to the run date (active requests)",
+  "tcga_sample_frame": "requests on the first 58 pages of a seeded random page order (580 requests)"
+ },
+ "outcomes": {
+  "phs000178": {
+   "name": "TCGA",
+   "sampled_requests": 200,
+   "requests_with_linked_paper": 123,
+   "share_with_linked_paper": 0.615,
+   "share_with_linked_paper_95ci": [
+    0.546,
+    0.68
+   ],
+   "share_with_paper_precision_adjusted": 0.582,
+   "requests_with_3y_window": 129,
+   "share_with_paper_among_3y_window": 0.736,
+   "km_cumulative_share_with_paper": {
+    "1y": 0.412,
+    "2y": 0.528,
+    "3y": 0.633,
+    "5y": 0.706
+   },
+   "km_median_days_to_first_paper": 629,
+   "median_days_to_first_paper_among_linked": 271.0,
+   "iqr_days_to_first_paper_among_linked": [
+    128.0,
+    512.0
+   ],
+   "first_time_requests": {
+    "n": 152,
+    "with_paper": 85,
+    "median_days_to_first_paper": 296.0
+   },
+   "median_linked_papers_per_linked_request": 4.0,
+   "distinct_linked_papers": 736,
+   "linked_papers_citing_accession_anywhere": 51,
+   "share_linked_papers_citing_accession": 0.069,
+   "linked_papers_naming_dataset_in_title_or_abstract": 234,
+   "linked_papers_with_consortium_author": 16,
+   "citations_icite": {
+    "papers": 736,
+    "total": 84577,
+    "median": 24.0,
+    "mean": 114.9,
+    "median_for_papers_published_by_2023": 31.0,
+    "share_with_10plus": 0.709
+   },
+   "by_institution_type": {
+    "r1_university": {
+     "sampled": 57,
+     "with_paper": 45,
+     "share": 0.789
+    },
+    "r2_university": {
+     "sampled": 6,
+     "with_paper": 3,
+     "share": 0.5
+    },
+    "other_us_university": {
+     "sampled": 2,
+     "with_paper": 2,
+     "share": 1.0
+    },
+    "cancer_center": {
+     "sampled": 21,
+     "with_paper": 16,
+     "share": 0.762
+    },
+    "us_government": {
+     "sampled": 9,
+     "with_paper": 4,
+     "share": 0.444
+    },
+    "other_us": {
+     "sampled": 14,
+     "with_paper": 9,
+     "share": 0.643
+    },
+    "company": {
+     "sampled": 24,
+     "with_paper": 4,
+     "share": 0.167
+    },
+    "non_us": {
+     "sampled": 64,
+     "with_paper": 39,
+     "share": 0.609
+    },
+    "unknown": {
+     "sampled": 3,
+     "with_paper": 1,
+     "share": 0.333
+    }
+   },
+   "attributed_papers_in_sample": 631,
+   "rough_extrapolated_reuse_papers_all_requests": 18356,
+   "rough_extrapolated_precision_adjusted": 15290,
+   "rough_extrapolated_bootstrap_95ci_unadjusted": [
+    13672,
+    24495
+   ]
+  },
+  "phs001287": {
+   "name": "CPTAC",
+   "sampled_requests": 80,
+   "requests_with_linked_paper": 19,
+   "share_with_linked_paper": 0.237,
+   "share_with_linked_paper_95ci": [
+    0.158,
+    0.341
+   ],
+   "share_with_paper_precision_adjusted": 0.225,
+   "requests_with_3y_window": 27,
+   "share_with_paper_among_3y_window": 0.481,
+   "km_cumulative_share_with_paper": {
+    "1y": 0.125,
+    "2y": 0.216,
+    "3y": 0.281,
+    "5y": 0.561
+   },
+   "km_median_days_to_first_paper": 1703,
+   "median_days_to_first_paper_among_linked": 423.0,
+   "iqr_days_to_first_paper_among_linked": [
+    268.5,
+    784.0
+   ],
+   "first_time_requests": {
+    "n": 77,
+    "with_paper": 18,
+    "median_days_to_first_paper": 424.0
+   },
+   "median_linked_papers_per_linked_request": 2.0,
+   "distinct_linked_papers": 81,
+   "linked_papers_citing_accession_anywhere": 14,
+   "share_linked_papers_citing_accession": 0.173,
+   "linked_papers_naming_dataset_in_title_or_abstract": 10,
+   "linked_papers_with_consortium_author": 19,
+   "citations_icite": {
+    "papers": 81,
+    "total": 7289,
+    "median": 23.0,
+    "mean": 90.0,
+    "median_for_papers_published_by_2023": 56.5,
+    "share_with_10plus": 0.704
+   },
+   "by_institution_type": {
+    "r1_university": {
+     "sampled": 22,
+     "with_paper": 8,
+     "share": 0.364
+    },
+    "r2_university": {
+     "sampled": 1,
+     "with_paper": 0,
+     "share": 0.0
+    },
+    "cancer_center": {
+     "sampled": 9,
+     "with_paper": 3,
+     "share": 0.333
+    },
+    "us_government": {
+     "sampled": 1,
+     "with_paper": 1,
+     "share": 1.0
+    },
+    "other_us": {
+     "sampled": 3,
+     "with_paper": 2,
+     "share": 0.667
+    },
+    "company": {
+     "sampled": 12,
+     "with_paper": 2,
+     "share": 0.167
+    },
+    "non_us": {
+     "sampled": 31,
+     "with_paper": 3,
+     "share": 0.097
+    },
+    "unknown": {
+     "sampled": 1,
+     "with_paper": 0,
+     "share": 0.0
+    }
+   },
+   "attributed_papers_in_sample": 50,
+   "rough_extrapolated_reuse_papers_all_requests": 304,
+   "rough_extrapolated_precision_adjusted": 254,
+   "rough_extrapolated_bootstrap_95ci_unadjusted": [
+    140,
+    530
+   ]
+  }
+ },
+ "naive_counts_europe_pmc": {
+  "phs000178": {
+   "epmc_records_with_accession_string": 876,
+   "epmc_records_with_accession_annotation": 529,
+   "epmc_records_naming_dataset_in_use_sections": 140439,
+   "epmc_records_naming_dataset_anywhere": 170812
+  },
+  "phs001287": {
+   "epmc_records_with_accession_string": 52,
+   "epmc_records_with_accession_annotation": 28,
+   "epmc_records_naming_dataset_in_use_sections": 6087,
+   "epmc_records_naming_dataset_anywhere": 6875
+  }
+ },
+ "terms_of_use": {
+  "dbgap_authorized_requests": {
+   "robots_txt": "www.ncbi.nlm.nih.gov/robots.txt (fetched 2026-10-08): /projects/gap/ is not disallowed; generic crawlers get Crawl-delay: 5",
+   "ncbi_policy": "NCBI website policies: run scripts with more than 100 requests on weekends or 9 pm to 5 am Eastern on weekdays; NCBI-created content is public domain, NLM acknowledgment requested",
+   "requester_consent": "Data use agreements state that the requester's name, institution, project name and research use description may be posted publicly; NOT-OD-25-159 requires repositories to post them",
+   "practice": "5 s between pages, no login, no API key; 2026-10-08 03:33 to 05:00 ET plus two re-fetches; bulk TSV endpoint returned HTTP 502 for TCGA; outputs hold aggregates only"
+  },
+  "europe_pmc": "anonymous REST API, at most 1 call per second, responses cached; terms page not reachable by script (HTTP 403)",
+  "ror": "CC0 data dump; anonymous API for unmatched strings at 1 call per 2 s"
+ }
+}
